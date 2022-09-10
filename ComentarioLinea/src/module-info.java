@@ -1,0 +1,3 @@
+module ComentarioLinea {
+	exports comentarioLinea;
+}
